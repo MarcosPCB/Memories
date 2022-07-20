@@ -109,7 +109,7 @@ vídeo personalizado para participar da nossa comemoração!
                         <div class="col-11 col-md-5 mb-5 vertical-input-group">
                             <div class="input-group">
                                 <input class="form-control font-mont-medium" id="FILESCHECK1" type="file" name="file1" accept=".png, .jpg, .bmp, .heic, .heif, .tif, .tiff, .jpeg">
-                                <button class="btn btn-primary border-light bg-light"  style="display: none;" type="button" id="FILECANCEL1"><i class="text-danger bi bi-x-circle-fill"></i></button>
+                                <button class="btn btn-primary border-light bg-light"  style="display: none;" type="button" id="FILECANCEL1"><i class="text-danger bi bi-trash-fill"></i></button>
                             </div>
                             <div class="input-group">
                                 <div id="FILEPIC1" class="d-flex flex-wrap form-control justify-content-center align-content-center p-0" style="display: none;">
@@ -124,7 +124,7 @@ vídeo personalizado para participar da nossa comemoração!
                         <div class="col-11 col-md-5 mb-5 vertical-input-group">
                            <div class="input-group">
                                 <input class="form-control font-mont-medium" id="FILESCHECK2" type="file" name="file2" accept=".png, .jpg, .bmp, .heic, .heif, .tif, .tiff, .jpeg">
-                                <button class="btn btn-primary border-light bg-light" type="button" id="FILECANCEL2" style="display: none; border-radius: 2px;"><i class="text-danger bi bi-x-circle-fill"></i></button>
+                                <button class="btn btn-primary border-light bg-light" type="button" id="FILECANCEL2" style="display: none; border-radius: 2px;"><i class="text-danger bi bi-trash-fill"></i></button>
                             </div>
                              <div class="input-group">
                                 <div id="FILEPIC2" class="d-flex flex-wrap form-control justify-content-center align-content-center p-0" style="display: none;">
@@ -138,7 +138,7 @@ vídeo personalizado para participar da nossa comemoração!
                         <div class="col-11 col-md-5  mb-5 vertical-input-group">
                             <div class="input-group">
                                 <input class="form-control font-mont-medium" id="FILESCHECK3" type="file" name="file3" accept=".png, .jpg, .bmp, .heic, .heif, .tif, .tiff, .jpeg">
-                                <button class="btn btn-primary border-light bg-light" type="button" id="FILECANCEL3" style="display: none; border-radius: 2px;"><i class="text-danger bi bi-x-circle-fill"></i></button>
+                                <button class="btn btn-primary border-light bg-light" type="button" id="FILECANCEL3" style="display: none; border-radius: 2px;"><i class="text-danger bi bi-trash-fill"></i></button>
                             </div>
                              <div class="input-group">
                                 <div id="FILEPIC3" class="d-flex flex-wrap form-control justify-content-center align-content-center p-0" style="display: none;">
@@ -153,7 +153,7 @@ vídeo personalizado para participar da nossa comemoração!
                         <div class="col-11 col-md-5 mb-5 vertical-input-group">
                            <div class="input-group">
                                 <input class="form-control font-mont-medium" id="FILESCHECK4" type="file" name="file4" accept=".png, .jpg, .bmp, .heic, .heif, .tif, .tiff, .jpeg">
-                                <button class="btn btn-primary border-light bg-light" type="button" id="FILECANCEL4" style="display: none; border-radius: 2px;"><i class="text-danger bi bi-x-circle-fill"></i></button>
+                                <button class="btn btn-primary border-light bg-light" type="button" id="FILECANCEL4" style="display: none; border-radius: 2px;"><i class="text-danger bi bi-trash-fill"></i></button>
                             </div>
                              <div class="input-group">
                                 <div id="FILEPIC4" class="d-flex flex-wrap form-control justify-content-center align-content-center p-0" style="display: none;">
