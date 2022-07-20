@@ -17,7 +17,7 @@ OBS: Neste repositório, só está o código, os assets (videos, imagens e fonte
 - Ele mantém a proporção das fotos no vídeo
 - O vídeo é gerado em 1080p em alta qualidade (formato quadrado)
 - Ele gera em tempo real o vídeo (2 a 5 minutos, dependendo do servidor)
-- Cada sessão gera uma ID única, caso o usuário gere o vídeo, porém, saia da página, ao retornar, a plataforma avisa que há um vídeo já gerado
+- Cada sessão gera uma ID única, para caso o usuário gere o vídeo, porém, saia da página, ao retornar à plataforma, avisa que há um vídeo já gerado
 - As fotos carregadas são apagadas após a geração do vídeo
 - Corrige as fotos com dados EXIF, tiradas de aparelhos mobile
 
